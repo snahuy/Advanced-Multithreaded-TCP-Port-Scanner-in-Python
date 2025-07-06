@@ -1,0 +1,5 @@
+Port 22    OPEN   | Service: SSH        | Banner: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+Port 80    OPEN   | Service: Web Server | Banner: HTTP/1.1 200 OK
+Date: Sun, 06 Jul 2025 11:07:16 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Accept-Ranges: ...
